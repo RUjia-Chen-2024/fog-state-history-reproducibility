@@ -1,6 +1,6 @@
 # FOG state-history reproducibility
 
-Version **1.0.0** | [Versioned release](https://github.com/RUjia-Chen-2024/fog-state-history-reproducibility/releases/tag/v1.0.0)
+Version **1.0.1** | [Versioned release](https://github.com/RUjia-Chen-2024/fog-state-history-reproducibility/releases/tag/v1.0.1)
 
 Reproducibility materials for **State-history forecasting for pre-onset warning of gait disruptions from stepping force signals**.
 
@@ -71,4 +71,8 @@ Reference intervals are `[onset, end]` pairs in seconds. Test eligibility is def
 
 The source data and processing scripts accompany Wang et al. (2023), *Time Series Analysis and Modeling of the Freezing of Gait Phenomenon*, DOI [10.1137/22M1484341](https://doi.org/10.1137/22M1484341). The authors' [Figshare resource](https://figshare.com/s/a14be7360925639736ba) states CC BY 4.0. The present archive provides derived coordinates, saved predictions and algorithmic labels; it is not the original full dataset. Cropped source force values used in the example figures are also included. See `THIRD_PARTY_NOTICES.txt`.
 
-The public GitHub release is maintained under `RUjia-Chen-2024`. Cite the repository title, version 1.0.0, and the versioned release URL above. No Zenodo/OSF DOI has yet been assigned. A separate reuse license for the new study-specific code and the formal scholarly creator metadata have not yet been specified; public access does not imply that an additional code license has been granted.
+The archive creator is **Rujia Chen**. Cite the archive title, version 1.0.1, and the versioned release URL above. Version 1.0.1 adds creator and rights metadata for Zenodo archiving; all scientific data, predictions, evaluation scripts and results are unchanged from version 1.0.0.
+
+No additional reuse license is granted for newly written study-specific code. Public access does not imply an open-source license. This does not change the original source-data CC BY 4.0 permissions. See `RIGHTS.txt` and `THIRD_PARTY_NOTICES.txt`.
+
+The Zenodo DOI will be linked from the GitHub release after the archive service completes processing. `.zenodo.json` supplies the confirmed creator and rights information.

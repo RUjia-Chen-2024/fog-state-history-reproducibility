@@ -1,0 +1,19 @@
+RIGHTS AND PUBLIC ACCESS
+
+The archive creator is Rujia Chen. No additional reuse license is granted
+for newly written study-specific code in this release. No MIT, Apache,
+GPL, Creative Commons or other extra code license is assigned.
+
+Public availability does not itself grant an additional code reuse
+license. Existing rights under applicable law and hosting-platform terms
+are unaffected.
+
+This notice does not revoke or restrict permissions already granted for
+source data or other third-party materials. The source data are attributed
+under CC BY 4.0 in THIRD_PARTY_NOTICES.txt. Those original permissions
+remain applicable to the source material. No ownership of third-party
+work is claimed.
+
+Zenodo's Other (Not Open) classification describes the absence of an
+additional open reuse license for the new code; files remain publicly
+accessible. It does not override the source-data license.

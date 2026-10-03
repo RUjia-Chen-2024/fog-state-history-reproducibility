@@ -1,9 +1,9 @@
 {
   "title": "State-history forecasting for pre-onset warning of gait disruptions from stepping force signals",
-  "version": "1.0.0",
-  "publication_status": "github_public_release",
-  "license_status": "author_confirmation_required",
-  "creators_status": "author_confirmation_required",
+  "version": "1.0.1",
+  "publication_status": "github_release_for_zenodo_archiving",
+  "license_status": "no_additional_code_reuse_license_granted",
+  "creators_status": "confirmed_by_author",
   "source_article_doi": "10.1137/22M1484341",
   "primary_protocol": "strict inter-event association without upper lead limit",
   "seed": 2026,
@@ -13,7 +13,13 @@
   "source_data_license": "CC-BY-4.0",
   "source_data_url": "https://figshare.com/s/a14be7360925639736ba",
   "repository_url": "https://github.com/RUjia-Chen-2024/fog-state-history-reproducibility",
-  "release_url": "https://github.com/RUjia-Chen-2024/fog-state-history-reproducibility/releases/tag/v1.0.0",
+  "release_url": "https://github.com/RUjia-Chen-2024/fog-state-history-reproducibility/releases/tag/v1.0.1",
   "publisher_github_account": "RUjia-Chen-2024",
-  "doi": null
+  "doi": null,
+  "creators": [
+    {
+      "name": "Chen, Rujia"
+    }
+  ],
+  "zenodo_license_id": "other-closed"
 }
