@@ -1,0 +1,146 @@
+{
+  "mode": "infer",
+  "model_training": false,
+  "records": 21,
+  "participants": 7,
+  "reference_onsets": 88,
+  "summary_all_18_matches_paper": true,
+  "bootstrap_matches_paper": true,
+  "checks": [
+    {
+      "tag": "Pt 10_FD10_1",
+      "forecast_pairs": 17835,
+      "max_forecast_difference": 1.423620423546268e-06,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 10_FD10_2",
+      "forecast_pairs": 17835,
+      "max_forecast_difference": 8.285133387131438e-07,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 10_FD10_4",
+      "forecast_pairs": 17835,
+      "max_forecast_difference": 5.964706389915975e-07,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 18_FD18_2",
+      "forecast_pairs": 17835,
+      "max_forecast_difference": 1.146110069294437e-06,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 18_FD18_3",
+      "forecast_pairs": 17835,
+      "max_forecast_difference": 9.857383377331885e-07,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 18_FD18_4",
+      "forecast_pairs": 17835,
+      "max_forecast_difference": 5.024833138467244e-07,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 18_FD18_5",
+      "forecast_pairs": 17835,
+      "max_forecast_difference": 4.568870403121039e-07,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 20_FD20_2",
+      "forecast_pairs": 17835,
+      "max_forecast_difference": 1.294736510670802e-06,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 20_FD20_3",
+      "forecast_pairs": 17835,
+      "max_forecast_difference": 7.437649843927696e-07,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 20_FD20_4",
+      "forecast_pairs": 17835,
+      "max_forecast_difference": 3.146892525174305e-07,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 20_FD20_5",
+      "forecast_pairs": 17835,
+      "max_forecast_difference": 1.2735818792908304e-06,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 20_FD20_6",
+      "forecast_pairs": 17835,
+      "max_forecast_difference": 6.858739325377172e-07,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 22_FD22_3",
+      "forecast_pairs": 17835,
+      "max_forecast_difference": 7.701973994134192e-07,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 31_FD31_1",
+      "forecast_pairs": 17835,
+      "max_forecast_difference": 1.2397820392529013e-06,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 31_FD31_2",
+      "forecast_pairs": 17835,
+      "max_forecast_difference": 8.146332364233899e-07,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 32_FD32_1",
+      "forecast_pairs": 17835,
+      "max_forecast_difference": 9.808642001674084e-07,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 33_FD33_1",
+      "forecast_pairs": 19935,
+      "max_forecast_difference": 7.326375267568963e-07,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 33_FD33_2",
+      "forecast_pairs": 19935,
+      "max_forecast_difference": 5.453086861229028e-07,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 33_FD33_4",
+      "forecast_pairs": 19935,
+      "max_forecast_difference": 1.4232433682703771e-06,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 33_FD33_5",
+      "forecast_pairs": 19935,
+      "max_forecast_difference": 1.2270993594576396e-06,
+      "all_18_activation_streams_match": true
+    },
+    {
+      "tag": "Pt 33_FD33_6",
+      "forecast_pairs": 19935,
+      "max_forecast_difference": 7.253445983845808e-07,
+      "all_18_activation_streams_match": true
+    }
+  ],
+  "state_machine": {
+    "brief_dropout_held": true,
+    "clearance_not_backdated": true,
+    "unknown_not_recovery": true,
+    "three_confirmations_preserved": true,
+    "prefix_invariant": true
+  },
+  "checkpoint_directory": "bundled paper weights",
+  "input_integrity_verified": true
+}

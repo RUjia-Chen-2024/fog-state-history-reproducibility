@@ -1,0 +1,426 @@
+{
+  "selected": {
+    "AC1": 0.8,
+    "AC1_A3T": 0.7,
+    "AC1_A7T": 0.6,
+    "AC1_RA5T": 0.75,
+    "Persistence": 0.175,
+    "Recovery": 0.75,
+    "Recovery_A3T": 0.8,
+    "Recovery_A7T": 0.75,
+    "Recovery_RA5T": 0.75,
+    "Reddening": 0.7,
+    "Reddening_A3T": 0.7,
+    "Reddening_A7T": 0.75,
+    "Reddening_RA5T": 0.7,
+    "State-history": 0.175,
+    "Variance": 0.75,
+    "Variance_A3T": 0.75,
+    "Variance_A7T": 0.55,
+    "Variance_RA5T": 0.65
+  },
+  "budgets": [
+    {
+      "method": "AC1",
+      "target_active": 0.2,
+      "q": 0.9,
+      "validation_active": 0.18248647648990804,
+      "validation_coverage": 0.6551724137931034
+    },
+    {
+      "method": "AC1",
+      "target_active": 0.3,
+      "q": 0.8,
+      "validation_active": 0.3014008969439352,
+      "validation_coverage": 0.7241379310344828
+    },
+    {
+      "method": "AC1",
+      "target_active": 0.4,
+      "q": 0.7,
+      "validation_active": 0.39853899856676145,
+      "validation_coverage": 0.7241379310344828
+    },
+    {
+      "method": "AC1_A3T",
+      "target_active": 0.2,
+      "q": 0.85,
+      "validation_active": 0.21554394562856652,
+      "validation_coverage": 0.6551724137931034
+    },
+    {
+      "method": "AC1_A3T",
+      "target_active": 0.3,
+      "q": 0.8,
+      "validation_active": 0.27375283184614785,
+      "validation_coverage": 0.7586206896551724
+    },
+    {
+      "method": "AC1_A3T",
+      "target_active": 0.4,
+      "q": 0.7,
+      "validation_active": 0.38055388598642864,
+      "validation_coverage": 0.8275862068965517
+    },
+    {
+      "method": "AC1_A7T",
+      "target_active": 0.2,
+      "q": 0.9,
+      "validation_active": 0.17943501780018595,
+      "validation_coverage": 0.41379310344827586
+    },
+    {
+      "method": "AC1_A7T",
+      "target_active": 0.3,
+      "q": 0.8,
+      "validation_active": 0.30075361782793325,
+      "validation_coverage": 0.5517241379310345
+    },
+    {
+      "method": "AC1_A7T",
+      "target_active": 0.4,
+      "q": 0.7,
+      "validation_active": 0.38924591982988,
+      "validation_coverage": 0.5862068965517241
+    },
+    {
+      "method": "AC1_RA5T",
+      "target_active": 0.2,
+      "q": 0.9,
+      "validation_active": 0.18646261963106164,
+      "validation_coverage": 0.5517241379310345
+    },
+    {
+      "method": "AC1_RA5T",
+      "target_active": 0.3,
+      "q": 0.8,
+      "validation_active": 0.30042997826993234,
+      "validation_coverage": 0.6551724137931034
+    },
+    {
+      "method": "AC1_RA5T",
+      "target_active": 0.4,
+      "q": 0.7,
+      "validation_active": 0.4013130519210547,
+      "validation_coverage": 0.6206896551724138
+    },
+    {
+      "method": "Persistence",
+      "target_active": 0.2,
+      "q": 0.2,
+      "validation_active": 0.18660132229877607,
+      "validation_coverage": 0.3448275862068966
+    },
+    {
+      "method": "Persistence",
+      "target_active": 0.3,
+      "q": 0.3,
+      "validation_active": 0.2877618012853277,
+      "validation_coverage": 0.5172413793103449
+    },
+    {
+      "method": "Persistence",
+      "target_active": 0.4,
+      "q": 0.4,
+      "validation_active": 0.382495723334434,
+      "validation_coverage": 0.5862068965517241
+    },
+    {
+      "method": "Recovery",
+      "target_active": 0.2,
+      "q": 0.85,
+      "validation_active": 0.21198391049055712,
+      "validation_coverage": 0.5172413793103449
+    },
+    {
+      "method": "Recovery",
+      "target_active": 0.3,
+      "q": 0.75,
+      "validation_active": 0.3086596698876685,
+      "validation_coverage": 0.8275862068965517
+    },
+    {
+      "method": "Recovery",
+      "target_active": 0.4,
+      "q": 0.65,
+      "validation_active": 0.4019140968144851,
+      "validation_coverage": 0.7241379310344828
+    },
+    {
+      "method": "Recovery_A3T",
+      "target_active": 0.2,
+      "q": 0.8,
+      "validation_active": 0.2139257478385622,
+      "validation_coverage": 0.8275862068965517
+    },
+    {
+      "method": "Recovery_A3T",
+      "target_active": 0.3,
+      "q": 0.7,
+      "validation_active": 0.32155901798513087,
+      "validation_coverage": 0.8620689655172413
+    },
+    {
+      "method": "Recovery_A3T",
+      "target_active": 0.4,
+      "q": 0.6,
+      "validation_active": 0.40441074483334877,
+      "validation_coverage": 0.8275862068965517
+    },
+    {
+      "method": "Recovery_A7T",
+      "target_active": 0.2,
+      "q": 0.85,
+      "validation_active": 0.1935826899070803,
+      "validation_coverage": 0.5517241379310345
+    },
+    {
+      "method": "Recovery_A7T",
+      "target_active": 0.3,
+      "q": 0.8,
+      "validation_active": 0.26931434647927927,
+      "validation_coverage": 0.6551724137931034
+    },
+    {
+      "method": "Recovery_A7T",
+      "target_active": 0.4,
+      "q": 0.7,
+      "validation_active": 0.40547413195249427,
+      "validation_coverage": 0.6896551724137931
+    },
+    {
+      "method": "Recovery_RA5T",
+      "target_active": 0.2,
+      "q": 0.85,
+      "validation_active": 0.18988395210135608,
+      "validation_coverage": 0.4827586206896552
+    },
+    {
+      "method": "Recovery_RA5T",
+      "target_active": 0.3,
+      "q": 0.75,
+      "validation_active": 0.2949281057839179,
+      "validation_coverage": 0.6896551724137931
+    },
+    {
+      "method": "Recovery_RA5T",
+      "target_active": 0.4,
+      "q": 0.65,
+      "validation_active": 0.39484026076103773,
+      "validation_coverage": 0.6206896551724138
+    },
+    {
+      "method": "Reddening",
+      "target_active": 0.2,
+      "q": 0.8,
+      "validation_active": 0.20597346155625562,
+      "validation_coverage": 0.41379310344827586
+    },
+    {
+      "method": "Reddening",
+      "target_active": 0.3,
+      "q": 0.7,
+      "validation_active": 0.31864626196312323,
+      "validation_coverage": 0.4482758620689655
+    },
+    {
+      "method": "Reddening",
+      "target_active": 0.4,
+      "q": 0.65,
+      "validation_active": 0.3885986407138783,
+      "validation_coverage": 0.3793103448275862
+    },
+    {
+      "method": "Reddening_A3T",
+      "target_active": 0.2,
+      "q": 0.85,
+      "validation_active": 0.17263858708216775,
+      "validation_coverage": 0.41379310344827586
+    },
+    {
+      "method": "Reddening_A3T",
+      "target_active": 0.3,
+      "q": 0.75,
+      "validation_active": 0.28494151370846316,
+      "validation_coverage": 0.5172413793103449
+    },
+    {
+      "method": "Reddening_A3T",
+      "target_active": 0.4,
+      "q": 0.65,
+      "validation_active": 0.3732026445975522,
+      "validation_coverage": 0.5517241379310345
+    },
+    {
+      "method": "Reddening_A7T",
+      "target_active": 0.2,
+      "q": 0.75,
+      "validation_active": 0.23362152665404248,
+      "validation_coverage": 0.3103448275862069
+    },
+    {
+      "method": "Reddening_A7T",
+      "target_active": 0.3,
+      "q": 0.7,
+      "validation_active": 0.2869758195016113,
+      "validation_coverage": 0.1724137931034483
+    },
+    {
+      "method": "Reddening_A7T",
+      "target_active": 0.4,
+      "q": 0.6,
+      "validation_active": 0.4228119654168254,
+      "validation_coverage": 0.3103448275862069
+    },
+    {
+      "method": "Reddening_RA5T",
+      "target_active": 0.2,
+      "q": 0.85,
+      "validation_active": 0.16440889546443208,
+      "validation_coverage": 0.27586206896551724
+    },
+    {
+      "method": "Reddening_RA5T",
+      "target_active": 0.3,
+      "q": 0.75,
+      "validation_active": 0.29585279023534883,
+      "validation_coverage": 0.3793103448275862
+    },
+    {
+      "method": "Reddening_RA5T",
+      "target_active": 0.4,
+      "q": 0.65,
+      "validation_active": 0.3801377779832849,
+      "validation_coverage": 0.3448275862068966
+    },
+    {
+      "method": "State-history",
+      "target_active": 0.2,
+      "q": 0.15,
+      "validation_active": 0.21203014471312853,
+      "validation_coverage": 0.5517241379310345
+    },
+    {
+      "method": "State-history",
+      "target_active": 0.3,
+      "q": 0.2,
+      "validation_active": 0.27435387673957834,
+      "validation_coverage": 0.5862068965517241
+    },
+    {
+      "method": "State-history",
+      "target_active": 0.4,
+      "q": 0.3,
+      "validation_active": 0.4230893707522547,
+      "validation_coverage": 0.7586206896551724
+    },
+    {
+      "method": "Variance",
+      "target_active": 0.2,
+      "q": 0.8,
+      "validation_active": 0.19691155393223175,
+      "validation_coverage": 0.3103448275862069
+    },
+    {
+      "method": "Variance",
+      "target_active": 0.3,
+      "q": 0.75,
+      "validation_active": 0.28581996393732256,
+      "validation_coverage": 0.4827586206896552
+    },
+    {
+      "method": "Variance",
+      "target_active": 0.4,
+      "q": 0.65,
+      "validation_active": 0.3931758287484618,
+      "validation_coverage": 0.4482758620689655
+    },
+    {
+      "method": "Variance_A3T",
+      "target_active": 0.2,
+      "q": 0.85,
+      "validation_active": 0.19806740949652055,
+      "validation_coverage": 0.3448275862068966
+    },
+    {
+      "method": "Variance_A3T",
+      "target_active": 0.3,
+      "q": 0.75,
+      "validation_active": 0.3191086041888385,
+      "validation_coverage": 0.4827586206896552
+    },
+    {
+      "method": "Variance_A3T",
+      "target_active": 0.4,
+      "q": 0.7,
+      "validation_active": 0.3789819224189961,
+      "validation_coverage": 0.3448275862068966
+    },
+    {
+      "method": "Variance_A7T",
+      "target_active": 0.2,
+      "q": 0.8,
+      "validation_active": 0.1876184751953502,
+      "validation_coverage": 0.10344827586206896
+    },
+    {
+      "method": "Variance_A7T",
+      "target_active": 0.3,
+      "q": 0.65,
+      "validation_active": 0.32424060289428064,
+      "validation_coverage": 0.27586206896551724
+    },
+    {
+      "method": "Variance_A7T",
+      "target_active": 0.4,
+      "q": 0.6,
+      "validation_active": 0.3978917194507597,
+      "validation_coverage": 0.3448275862068966
+    },
+    {
+      "method": "Variance_RA5T",
+      "target_active": 0.2,
+      "q": 0.9,
+      "validation_active": 0.19353645568450867,
+      "validation_coverage": 0.1724137931034483
+    },
+    {
+      "method": "Variance_RA5T",
+      "target_active": 0.3,
+      "q": 0.85,
+      "validation_active": 0.2838781265893176,
+      "validation_coverage": 0.3793103448275862
+    },
+    {
+      "method": "Variance_RA5T",
+      "target_active": 0.4,
+      "q": 0.75,
+      "validation_active": 0.4115308151093672,
+      "validation_coverage": 0.3793103448275862
+    }
+  ],
+  "frozen_before_test_scoring": true,
+  "checkpoint_hashes": {
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_10_FD10_1_state_only_seed2026.pt": "aeaa83a7b1fc2585c34ef99c4c4a72c730908d5c3f46236935e2bd866abbb865",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_10_FD10_2_state_only_seed2026.pt": "36b9d5d5fd69a3e51a2210765f52afab15b2cf966e4897106ed312c67a42ca20",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_10_FD10_4_state_only_seed2026.pt": "89b09cbc0e7f1c14db9576c5c82302e0ab51670f42faef9cd0d3262acd7431ca",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_18_FD18_2_state_only_seed2026.pt": "0813b53208fd78eb5d5dfa0d562538ca590a90a7b3fc06d97b08d702c17333d6",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_18_FD18_3_state_only_seed2026.pt": "5c9e09e9776691d6066481d020f808d1c198cf7e8e57226da717176a856e72ec",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_18_FD18_4_state_only_seed2026.pt": "1afe8ce6ab3269d35f345f0dac261ba7540b5d3ee030b53d1b518fa56adfe859",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_18_FD18_5_state_only_seed2026.pt": "72ade60c1b7bd0ed758cac74e255d8e3073a800a79e2013efd14a3a5843ef80f",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_20_FD20_2_state_only_seed2026.pt": "f96a9702dad5a0ac400f0be63060640bfee6423e978d421a61306a922b8da074",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_20_FD20_3_state_only_seed2026.pt": "d13391bcf98dcf9f84cff0790f4aa08464fd263705bdaeb2aa28c1420a0ce750",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_20_FD20_4_state_only_seed2026.pt": "1ab53b7349d24caf233229992b341e3957ce892d755cafa4aed84b4ecc1e4975",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_20_FD20_5_state_only_seed2026.pt": "13015995a72e75bc4c8a6b504946e2eda34cae7421409adbfcca3a0f7fdc78fe",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_20_FD20_6_state_only_seed2026.pt": "2179471020a01fcd8e7b37da1411c14caff9987ca7b47b16d7b1c050ae9f741c",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_22_FD22_3_state_only_seed2026.pt": "55a7ede508cb5cdd9d84d2484c9539d73e0093e2299bb21b8e9f09d37d0328c6",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_31_FD31_1_state_only_seed2026.pt": "1b61c54fcab0c21e2f8b15f11ea8d835f4aecea11a5be11741bc7d5dd6f7ed22",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_31_FD31_2_state_only_seed2026.pt": "f364b65eddffc3e2797fa9729d7df75ea298befdf42f8c823bf7c7b908f148cb",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_32_FD32_1_state_only_seed2026.pt": "7179263578bf8f5234c94b5222548116efdd2fe14d5e285a9292d194b7805de3",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_33_FD33_1_state_only_seed2026.pt": "dde161c232f9ac2a702f26e4e4eb9037ebb8dc58115ff2e91b09dbbc81228430",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_33_FD33_2_state_only_seed2026.pt": "977e1af3adb4dc1f66727aa4400857d56ad513a5a509d7de1889867990ff59dd",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_33_FD33_4_state_only_seed2026.pt": "0d17ca9dc126e11d41df09aebfe3d25eadbbbc9e9a450a542631fbb48bb42af6",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_33_FD33_5_state_only_seed2026.pt": "719a2adda48a6feb30d71705441fca58e6fe0e10ac64a853759a08c225be20b6",
+    "/home/student2/.conda/SE+ME/state_only_main_seed2026/checkpoints/Pt_33_FD33_6_state_only_seed2026.pt": "a22e7752304bc60a7eee2e584df724ed3dafda884ea41cbcfb6670bff4eb6c0a"
+  }
+}

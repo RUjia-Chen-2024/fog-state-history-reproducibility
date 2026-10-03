@@ -1,0 +1,5 @@
+# Preserve exact archived bytes and SHA-256 checksums across platforms.
+* -text
+*.gz binary
+*.pdf binary
+*.png binary

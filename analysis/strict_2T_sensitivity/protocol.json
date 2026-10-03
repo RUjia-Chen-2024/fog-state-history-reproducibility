@@ -1,0 +1,26 @@
+{
+  "rule": "previous_reference_end < actual_activation < next_reference_onset and lead <= 2T",
+  "denominator": "All actual activations, unchanged from unlimited analysis; not complete-follow-up precision",
+  "events": 88,
+  "participants": [
+    "Pt 10",
+    "Pt 18",
+    "Pt 20",
+    "Pt 22",
+    "Pt 31",
+    "Pt 32",
+    "Pt 33"
+  ],
+  "bootstrap": 2000,
+  "seed": 20261002,
+  "paired_state_minus_persistence_ci": [
+    [
+      0.11111111111111116,
+      -0.03196428571428572
+    ],
+    [
+      0.5402298850574713,
+      0.21077830712746565
+    ]
+  ]
+}

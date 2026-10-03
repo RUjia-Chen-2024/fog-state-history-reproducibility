@@ -1,0 +1,72 @@
+{
+  "configurations": [
+    [
+      "A",
+      5
+    ],
+    [
+      "A",
+      3
+    ],
+    [
+      "A",
+      7
+    ],
+    [
+      "RA",
+      5
+    ]
+  ],
+  "classical_configurations": 16,
+  "default_comparators": 6,
+  "methods_verified": [
+    "AC1",
+    "AC1_A3T",
+    "AC1_A7T",
+    "AC1_RA5T",
+    "Persistence",
+    "Recovery",
+    "Recovery_A3T",
+    "Recovery_A7T",
+    "Recovery_RA5T",
+    "Reddening",
+    "Reddening_A3T",
+    "Reddening_A7T",
+    "Reddening_RA5T",
+    "State-history",
+    "Variance",
+    "Variance_A3T",
+    "Variance_A7T",
+    "Variance_RA5T"
+  ],
+  "reference_onsets": 88,
+  "records": 21,
+  "participants": 7,
+  "denominator_seconds": 654.85,
+  "complete_followup_exposure_seconds": 623.19,
+  "formulas": {
+    "activations_per_minute": "60 * sum(actual activations) / sum(evaluable seconds)",
+    "active_fraction": "sum(observed active seconds) / sum(evaluable seconds)"
+  },
+  "missing_configurations": [
+    [
+      "RA",
+      3
+    ],
+    [
+      "RA",
+      7
+    ]
+  ],
+  "no_new_experiment": true,
+  "no_threshold_changes": true,
+  "checks": "All saved point estimates agree with sums of per-record outputs and event leads; all 16 classical threshold quantiles agree with validation selection.",
+  "source_hashes": {
+    "analysis\\classical_ews_revision\\source\\results\\selected_test_results.csv": "22b615e5702f4f237a136714002b54125f31c41d00946399c18039fc3b00837a",
+    "analysis\\classical_ews_revision\\source\\results\\protocol.json": "13fdd616b82046f325583e2906f79fca31dbbf43aa280ecd90a8d06697689b08",
+    "analysis\\classical_ews_revision\\source\\results\\frozen_threshold_selection.json": "3c277b3578ee8f1ebff9e254baa75073613cb26514015483a27f814226cdcc0d",
+    "analysis\\classical_sensitivity\\selected_record_rows.csv": "26be84b34d2051d91f3a7d6b028f79801d04571ea51f6af22fd2ff555c45ec2d",
+    "analysis\\classical_sensitivity\\selected_event_rows.csv": "640684ac0d366bf20c07bc2efc6b43a210d044f577e6223b57964007bd188946",
+    "analysis\\classical_sensitivity\\validation_sweep.csv": "d5fcbb4aef5327c5f09d709f115853db3ed478491c847887784b9c0ea11227fc"
+  }
+}

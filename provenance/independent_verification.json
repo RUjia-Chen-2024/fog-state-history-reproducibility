@@ -1,0 +1,28 @@
+{
+  "records": 21,
+  "participants": 7,
+  "samples": 193999,
+  "duration_range_sec": [
+    89.98,
+    99.99
+  ],
+  "sampling_hz_range": [
+    100.00000000000213,
+    100.00000000000213
+  ],
+  "raw_input_checks_all_pass": true,
+  "all_packed_arrays_identical_to_source": true,
+  "all_raw_sources_and_checkpoints_hash_match": true,
+  "fitting_onsets": 64,
+  "test_onsets": 88,
+  "fitting_complete_intervals": 58,
+  "fitting_onsets_after_history": 64,
+  "fitting_prefix_redetected": 61,
+  "historical_fitting_prefix_safe_onsets": 58,
+  "records_at_least_one_fit_and_test": 21,
+  "records_at_least_two_fit_and_test": 14,
+  "event_associations_independently_checked": 1584,
+  "all_associations_match": true,
+  "manuscript_reference_sha256": "0b9534ddf95bd94ee72a4814268b8b0d2954f872c8b63e17e0ca4a31be48a6de",
+  "scope": "Existing paper weights reinferred; no model retraining. Independent source-array and open-gap checks on new run outputs."
+}

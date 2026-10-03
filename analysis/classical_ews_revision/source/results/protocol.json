@@ -1,0 +1,59 @@
+{
+  "cohort": "Fixed21 records,7 participants,88 test onsets; excluded8 never included",
+  "input": "Causal robust amplitude A, divided by positive fitting-prefix median; 20Hz samples. RA input supplementary.",
+  "EWS": "Trailing linear-detrended5T windows;3T,7T and RA5T sensitivity. AC1=sum lag products/sum squares. Variance ddof1. AR1 phi=sum lag products/sum squared predictors. kappa=-log(phi)/0.05 ONLY0<phi<1. Invalid kappa/constant statistics abstain (candidate false), not silently interpreted as recovery. Reddening=sum PSD(0<f<=0.5/T)/sum PSD(0.5/T<f<=2/T),Hann periodogram.",
+  "thresholds": "Per-record quantiles of finite EWS scores in first52% fitting prefix after full window; global quantile selected on validation; risk directions fixed (AC,var,SR up; kappa down). Existing trajectory thresholds use original65% prefix, incl validation; slopes unchanged. No test-based selection.",
+  "selection": "For main EWS choose global q maximizing validation harmonic mean of event coverage and full-followup alarm precision; tie lower unmatched rate,lower active fraction. Operator/Persistence main q=.175 original. Budget q chosen solely on validation nearest active-time target .2,.3,.4, tie coverage.",
+  "burden": "All prespecified q values plotted on test descriptively. Interpolation at test burden is descriptive, not deployable test-selected threshold. Actual test burden at validation-selected budgets reported.",
+  "rules": "3 rolling anchors enter,0.10s continuous candidate failure exits. EWS candidates use scalar thresholds (no artificial future3 or coordinate-support gate). Same evaluation anchors, unavailable tails, reference onsets and2T window for all six methods.",
+  "trend": "Align causal scores to test onsets on [-4T,0);fit-median/IQR standardized;pointwise participant-cluster bootstrap and event Kendall tau;overlapping event windows reported, not independent clinical evidence.",
+  "references": [
+    "https://doi.org/10.1371/journal.pone.0041010"
+  ],
+  "q_grid": [
+    0.01,
+    0.025,
+    0.05,
+    0.1,
+    0.15,
+    0.175,
+    0.2,
+    0.25,
+    0.3,
+    0.35,
+    0.4,
+    0.45,
+    0.5,
+    0.55,
+    0.6,
+    0.65,
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.9,
+    0.95,
+    0.975,
+    0.99
+  ],
+  "configurations": [
+    [
+      "A",
+      5
+    ],
+    [
+      "A",
+      3
+    ],
+    [
+      "A",
+      7
+    ],
+    [
+      "RA",
+      5
+    ]
+  ],
+  "no_training": true,
+  "exploratory": true
+}

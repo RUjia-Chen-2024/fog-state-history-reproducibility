@@ -1,0 +1,4 @@
+alarm_id,issued_at,cleared_at,observed_end,clear_reason,right_censored,observed_duration
+1,71.45,71.65,71.65,sustained_candidate_absence,0,0.20000000000000284
+2,73.1,74.15,74.15,sustained_candidate_absence,0,1.0500000000000114
+3,80.5,89.7,89.7,sustained_candidate_absence,0,9.200000000000003

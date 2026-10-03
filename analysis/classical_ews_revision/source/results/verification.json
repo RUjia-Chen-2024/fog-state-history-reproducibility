@@ -1,0 +1,16 @@
+{
+  "prefix_causality_passed": true,
+  "selected21_intervals_reproduced": true,
+  "baseline_metrics_reproduced": true,
+  "checkpoints_unchanged": true,
+  "n_records": 21,
+  "n_test_events": 88,
+  "n_validation_events": 29,
+  "tests": {
+    "brief_dropout_held": true,
+    "clearance_not_backdated": true,
+    "unknown_not_recovery": true,
+    "three_confirmations_preserved": true,
+    "prefix_invariant": true
+  }
+}

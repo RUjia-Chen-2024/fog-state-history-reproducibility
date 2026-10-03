@@ -1,0 +1,23 @@
+{
+  "n_records": 21,
+  "n_reference": 88,
+  "covered": 71,
+  "coverage": 0.8068181818181818,
+  "missed": 17,
+  "actual_warnings": 194,
+  "successful_warnings": 117,
+  "successful_warning_fraction": 0.6030927835051546,
+  "duplicate_successful_warnings": 46,
+  "alarm_status_counts": {
+    "successful_between_events": 117,
+    "during_previous_event_or_boundary": 48,
+    "during_event_no_later_onset": 28,
+    "no_later_onset_observed": 1
+  },
+  "mean_lead": 2.259802816901403,
+  "median_lead": 0.9359999999999928,
+  "q25_lead": 0.28100000000000236,
+  "q75_lead": 1.9109999999999943,
+  "left_truncated_reference_gaps": 14,
+  "definition": "Strict previous reference end < actual issuance < next reference onset; no upper lead limit and no requirement to remain active. Previous end uses full-record reference intervals, including pretest events. Coverage denominator remains all88 test onsets. First warning in gap gives lead. Tail without later onset unresolved under unlimited horizon; fraction of all194 is a descriptive observed success fraction, not complete-followup precision."
+}

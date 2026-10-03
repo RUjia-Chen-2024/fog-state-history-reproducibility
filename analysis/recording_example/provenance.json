@@ -1,0 +1,24 @@
+{
+  "tag": "Pt 20_FD20_3",
+  "seed": 2026,
+  "window_sec": 1.6400000000000006,
+  "reference_onsets": 5,
+  "covered_onsets": 4,
+  "actual_activations": 9,
+  "complete_followup_activations": 9,
+  "complete_followup_hits": 4,
+  "median_first_warning_lead_sec": 0.6759999999999984,
+  "pooled_median_first_warning_lead_sec": 0.6760000000000019,
+  "selection": "Among recordings with both covered and uncovered onsets, select the recording whose median successful first-warning lead is closest to the pooled median; ties use fixed inclusion order. This is a retrospective illustration, not a population-representative sample.",
+  "raw_coordinate_source": "onset_development/figures_ra_re_labels21/data",
+  "warning_intervals_are_saved_outputs": true,
+  "no_model_training": true,
+  "checks": "Recomputed associations and first-warning leads agree with saved bounded event and recording summaries.",
+  "hashes": {
+    "analysis\\recording_example\\Pt_20_FD20_3.csv": "59718076ea6cd1e314b455b1c938d947ea495839d23894928251baae3e67969e",
+    "analysis\\online_states\\Pt_20_FD20_3\\state_trace.csv": "4412212833bdf01195aa588bf0c28c2d158b53100813ac01abcc3e031a959efd",
+    "analysis\\online_states\\Pt_20_FD20_3\\activation_intervals.csv": "c2ea818edd02e609ffef3474dc88ee90977207a285b0d6b21f19c1e3b09e544c",
+    "analysis\\structure_revision\\bounded_events.csv": "dbe3089c58132b04f159439929be0c67d5a1d4f8fa2aef8a4a57722f442640e9",
+    "analysis\\structure_revision\\bounded_per_record.csv": "a263bf85619a5b1e667882a6e5de2c36c07a900c695347b22eb369c1448c77b0"
+  }
+}

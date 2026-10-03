@@ -1,0 +1,9 @@
+{
+  "records": 21,
+  "participants": 7,
+  "forecast_pairs": 385035,
+  "test_onsets": 88,
+  "all_derived_sha256_match": true,
+  "max_per_record_MAE_difference_from_independent_replay": 1.0855934798153863e-07,
+  "models_retrained": false
+}

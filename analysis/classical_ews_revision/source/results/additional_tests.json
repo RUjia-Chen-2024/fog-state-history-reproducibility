@@ -1,0 +1,7 @@
+{
+  "random_state_machine_replays": 40,
+  "missing_and_tail_states_verified": true,
+  "prefix_invariance": true,
+  "amplitude_scale_invariance": true,
+  "constant_window_handling": true
+}

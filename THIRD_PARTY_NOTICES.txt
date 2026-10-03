@@ -1,0 +1,13 @@
+SOURCE DATA ATTRIBUTION
+
+Ai Wang, Jan Sieber, William R. Young, and Krasimira Tsaneva-Atanasova.
+Time Series Analysis and Modeling of the Freezing of Gait Phenomenon.
+SIAM Journal on Applied Dynamical Systems 22(2):825-849 (2023).
+Article: https://doi.org/10.1137/22M1484341
+Data and code: https://figshare.com/s/a14be7360925639736ba
+The source page displays CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+License information checked on 2026-10-03. The page also describes the item as privately shared through its shared link; no separate public dataset DOI is inferred.
+
+Changes: original recordings were transformed into amplitude and derivative-energy retention coordinates; a state-history model supplied forecasts; a cycle algorithm supplied reference intervals; warnings were evaluated under the documented inter-event and bounded rules. These outputs are study-specific derivatives. Cropped force tables retained for example plotting remain attributed to the source dataset.
+
+The source license does not determine the license or authorship of newly written study-specific code. Those details await the study authors. No additional license for that code is granted by this notice.

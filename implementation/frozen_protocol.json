@@ -1,0 +1,30 @@
+{
+  "seed": 2026,
+  "exit_duration": 0.1,
+  "enter_confirmations": 3,
+  "selected_quantiles": {
+    "State-history": 0.175,
+    "Persistence": 0.175,
+    "AC1": 0.8,
+    "Variance": 0.75,
+    "Recovery": 0.75,
+    "Reddening": 0.7,
+    "AC1_A3T": 0.7,
+    "AC1_A7T": 0.6,
+    "AC1_RA5T": 0.75,
+    "Recovery_A3T": 0.8,
+    "Recovery_A7T": 0.75,
+    "Recovery_RA5T": 0.75,
+    "Reddening_A3T": 0.7,
+    "Reddening_A7T": 0.75,
+    "Reddening_RA5T": 0.7,
+    "Variance_A3T": 0.75,
+    "Variance_A7T": 0.55,
+    "Variance_RA5T": 0.65
+  },
+  "bootstrap_seed": 20261002,
+  "bootstrap_replicates": 2000,
+  "primary_evaluation": "previous reference end < actual issuance < next reference onset; no maximum lead; warning need not remain active",
+  "threshold_selection": "Frozen historical validation choices under 2T; no retuning for inter-event evaluation",
+  "reference_type": "cycle-defined algorithmic gait disruption, not independently annotated clinical FoG"
+}

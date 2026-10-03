@@ -1,0 +1,10 @@
+{
+  "records": 21,
+  "participants": 7,
+  "forecast_pairs": 385035,
+  "forecast_source": "Original saved forecast arrays bundled with the frozen seed-2026 input snapshots; not regenerated or retrained for release",
+  "coordinate_source": "prepare_record from verified inference package",
+  "reference_source": "Full-record cycle detector; not clinical annotations",
+  "contains_raw_force": false,
+  "public_deposit": false
+}

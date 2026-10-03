@@ -1,0 +1,26 @@
+{
+  "framework": {
+    "unchanged_graphic": true,
+    "actual_activation": 67.5,
+    "previous_reference_end": 65.06,
+    "next_reference_onset": 68.59599999999999
+  },
+  "recording_example": {
+    "tag": "Pt 20_FD20_3",
+    "selection": "Retained from the preceding illustration; not reselected for the new evaluation.",
+    "covered": 5,
+    "events": 5,
+    "successful_activations": 6,
+    "activations": 9,
+    "recorded_curves_unchanged": true
+  },
+  "model_training": false,
+  "input_sha256": {
+    "analysis\\recording_example\\Pt_20_FD20_3.csv": "59718076ea6cd1e314b455b1c938d947ea495839d23894928251baae3e67969e",
+    "analysis\\online_states\\Pt_20_FD20_3\\state_trace.csv": "4412212833bdf01195aa588bf0c28c2d158b53100813ac01abcc3e031a959efd",
+    "analysis\\inter_event_revision\\summary.csv": "26be99e97b67de762036d8b25d3da71babe38f43b548cbc963084be6a320892b",
+    "analysis\\inter_event_revision\\events.csv": "48ade8308a1939a7f0620b868785cc0584443e0aaf2d632dc5aaef06a87f5650",
+    "analysis\\inter_event_revision\\alarms.csv": "3ae90eb50e79945d5eb405d18ff979ddad5b1d39bf0c92d7cd52ed67f27982a0",
+    "analysis\\inter_event_revision\\participant_cluster_intervals.csv": "7aa94b96561e9783fbccceebdef0fef731ee01029bbbd309a9dca395771f3210"
+  }
+}

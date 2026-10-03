@@ -1,0 +1,110 @@
+[
+  {
+    "method": "Persistence",
+    "covered": 37,
+    "associated": 39,
+    "median_lead": 0.2960000000000065
+  },
+  {
+    "method": "AC1",
+    "covered": 39,
+    "associated": 48,
+    "median_lead": 0.8159999999999883
+  },
+  {
+    "method": "Variance",
+    "covered": 22,
+    "associated": 22,
+    "median_lead": 0.7359999999999971
+  },
+  {
+    "method": "Recovery",
+    "covered": 55,
+    "associated": 66,
+    "median_lead": 0.8059999999999832
+  },
+  {
+    "method": "Reddening",
+    "covered": 23,
+    "associated": 23,
+    "median_lead": 0.9060000000000059
+  },
+  {
+    "method": "State-history",
+    "covered": 67,
+    "associated": 79,
+    "median_lead": 0.5459999999999923
+  },
+  {
+    "method": "AC1_A3T",
+    "covered": 76,
+    "associated": 95,
+    "median_lead": 0.8509999999999991
+  },
+  {
+    "method": "AC1_A7T",
+    "covered": 44,
+    "associated": 53,
+    "median_lead": 1.0209999999999866
+  },
+  {
+    "method": "AC1_RA5T",
+    "covered": 54,
+    "associated": 68,
+    "median_lead": 0.9059999999999917
+  },
+  {
+    "method": "Recovery_A3T",
+    "covered": 64,
+    "associated": 89,
+    "median_lead": 0.9359999999999857
+  },
+  {
+    "method": "Recovery_A7T",
+    "covered": 53,
+    "associated": 61,
+    "median_lead": 0.6359999999999957
+  },
+  {
+    "method": "Recovery_RA5T",
+    "covered": 64,
+    "associated": 78,
+    "median_lead": 0.6759999999999948
+  },
+  {
+    "method": "Reddening_A3T",
+    "covered": 46,
+    "associated": 51,
+    "median_lead": 0.9359999999999928
+  },
+  {
+    "method": "Reddening_A7T",
+    "covered": 15,
+    "associated": 16,
+    "median_lead": 1.1159999999999854
+  },
+  {
+    "method": "Reddening_RA5T",
+    "covered": 16,
+    "associated": 16,
+    "median_lead": 0.4259999999999877
+  },
+  {
+    "method": "Variance_A3T",
+    "covered": 23,
+    "associated": 24,
+    "median_lead": 0.9759999999999991
+  },
+  {
+    "method": "Variance_A7T",
+    "covered": 14,
+    "associated": 14,
+    "median_lead": 0.9909999999999926
+  },
+  {
+    "method": "Variance_RA5T",
+    "covered": 16,
+    "associated": 16,
+    "median_lead": 0.7509999999999977
+  }
+]

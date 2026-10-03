@@ -1,0 +1,12 @@
+alarm_id,issued_at,cleared_at,observed_end,clear_reason,right_censored,observed_duration
+1,66.7,67.3,67.3,sustained_candidate_absence,0,0.5999999999999943
+2,68.1,68.25,68.25,sustained_candidate_absence,0,0.15000000000000568
+3,70.8,71.2,71.2,sustained_candidate_absence,0,0.4000000000000057
+4,71.35,72.6,72.6,sustained_candidate_absence,0,1.25
+5,73.4,74.0,74.0,sustained_candidate_absence,0,0.5999999999999943
+6,74.2,74.95,74.95,sustained_candidate_absence,0,0.75
+7,78.25,78.55,78.55,sustained_candidate_absence,0,0.29999999999999716
+8,78.75,80.55,80.55,sustained_candidate_absence,0,1.7999999999999972
+9,80.9,82.05,82.05,sustained_candidate_absence,0,1.1499999999999915
+10,82.25,83.2,83.2,sustained_candidate_absence,0,0.9500000000000028
+11,88.85,,89.85,insufficient_future_points,1,1.0
