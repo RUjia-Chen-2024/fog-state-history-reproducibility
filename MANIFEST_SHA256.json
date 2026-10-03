@@ -1,7 +1,7 @@
 {
   ".gitattributes": "ecbc521d99f6cf2fec15ededbe3671f8ba062d2c3415e97480bc4c9e6a52a2ab",
   ".gitignore": "3e86a37ca846716c74a2eb9852ccf29ed4124138eb29ab568a20746c181a73f8",
-  ".zenodo.json": "43b34d7b4dbf74384f4fe66f7385e7693ed2acdf82f2a6352573c3f6a8f7a149",
+  ".zenodo.json": "cbb83b43f972769a8f83ebf2bbe89d7c1a4412bd88482e84f89be9e3ed5e7e18",
   "analysis/classical_ews_revision/coverage_precision_differences.csv": "52c7096cba5adf754809ff08995af35609833167d3329f4f190191f5e0bf275c",
   "analysis/classical_ews_revision/revision_manifest.json": "b298d2f4381a902d6e742cad1499727bfe6608d745d2601ea41821f0e3e03a7f",
   "analysis/classical_ews_revision/selected_events.csv": "77544665da4d33d2746faa25632fe631f66a59db67fa74e6da4350903f0a1dd5",
@@ -560,14 +560,14 @@
   "provenance/publication_preparation.json": "0f980f58b015ee3523f6bb4c9d400e96dbb6a072c8339790303cc170de36b1b5",
   "provenance/replayed_forecast_errors_per_record.csv": "3fdf46b3c5f7bc520115bb59522ded643a4b5f09a8be24348755066a1df54ded",
   "provenance/verification.json": "754c3b32494ba097b52981e772f57e136f6afa4485430292f1669c5fa98c2277",
-  "README.md": "e05a773b889e5fdc0ad048ea8746bb535d1a536f0fb69e4fe940b20a2a357e6b",
+  "README.md": "818b4a4e8efff96324d2049a3c06fd3fb64527308277f14a4c92f777effe0844",
   "README.txt": "4fbf0cc67319a1cf3dd94d9755b5ba875d0d8adb0a799380d586cc4779ced18f",
-  "release_metadata.json": "361c6b8ebef9076b70a2ca1e7f96459664f658cc3f1332bf933097cb3ea33dea",
+  "release_metadata.json": "04a2923a3385dcf86a87f417ab7850531f03d0cc8db79b52ebdefbfbd3814274",
   "requirements.txt": "0439d44e9ad46e0973369f03ca4b91cf1be5c7c2e2b366a99695a3f2beff6f44",
-  "RIGHTS.txt": "f7697338dd9958c376e14a4d8b9ab90665d0cdb4dac4b276428f15729feda5e8",
+  "RIGHTS.txt": "6f9fc40052ca1524e4896938a79ec871c77f1b652e657bb994bb4672f3413cda",
   "scripts/draw_inter_event_figures.py": "1a61546012eb22c34314fb5a984bebbfa4bc857638543be82cb30b84653f5662",
   "scripts/recompute_strict_2T.py": "3a0bbb54ec1b245f4a7e4653568cd480e6eeaea83885deab4abfb101742e674c",
   "scripts/rescore_inter_event.py": "60d05385452fc514e8840397a8fc163f361c3c4e8bc2e01b163d7ea6958075f5",
   "scripts/verify_derived.py": "e48e2ae8813895d5a0826a7797b06636494dbeec27740267200e3640003f184d",
-  "THIRD_PARTY_NOTICES.txt": "13c8cc7529da04f88085b314f745170c0e52ccafa3c1e3625897b00fd1337da1"
+  "THIRD_PARTY_NOTICES.txt": "84dd9bf20c128537a2bfe1a91235b4620a6e944d2f6250c768e29d889f433630"
 }

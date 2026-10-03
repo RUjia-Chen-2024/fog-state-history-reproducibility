@@ -5,10 +5,10 @@
       "name": "Chen, Rujia"
     }
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "upload_type": "software",
   "access_right": "open",
-  "description": "<p>Reproducibility materials for the state-history forecasting study: frozen seed-2026 analysis of 21 stepping-force recordings from seven participants, 385,035 saved forecast pairs and 88 cycle-derived reference onsets. Includes derived coordinates, saved predictions, reference intervals, evaluation tables, scripts and retained figures. Complete original force exports and trained checkpoints are not bundled; executable reproduction begins with saved coordinates and forecasts.</p><p>The primary endpoint is strict inter-event activation association without an upper lead limit; the 2T bounded evaluation is secondary. Association lead is not the approximately 1.5-second forecast horizon. Reference events are algorithmic gait disruptions, not independent clinical FOG annotations.</p><p>Version 1.0.1 adds archival metadata to the v1.0.0 materials. Scientific data and results are unchanged. Source-derived data retain the attribution in THIRD_PARTY_NOTICES.txt.</p><p>Rights: no additional reuse license is granted for the newly written study-specific code. Public access is not an open-source license. This reservation does not alter rights granted by the original source-data authors under CC BY 4.0, applicable third-party licenses, platform terms or statutory exceptions. See RIGHTS.txt and THIRD_PARTY_NOTICES.txt for scope.</p>",
+  "description": "<p>Reproducibility materials for the state-history forecasting study: frozen seed-2026 analysis of 21 stepping-force recordings from seven participants, 385,035 saved forecast pairs and 88 cycle-derived reference onsets. Includes derived coordinates, saved predictions, reference intervals, evaluation tables, scripts and retained figures. Complete original force exports and trained checkpoints are not bundled; executable reproduction begins with saved coordinates and forecasts.</p><p>The primary endpoint is strict inter-event activation association without an upper lead limit; the 2T bounded evaluation is secondary. Association lead is not the approximately 1.5-second forecast horizon. Reference events are algorithmic gait disruptions, not independent clinical FOG annotations.</p><p>Version 1.0.2 adds archival metadata to the v1.0.0 materials. Scientific data and results are unchanged. Source-derived data retain the attribution in THIRD_PARTY_NOTICES.txt.</p><p>Rights: no additional reuse license is granted for the newly written study-specific code. Public access is not an open-source license. This reservation does not alter rights granted by the original source-data authors under CC BY 4.0, applicable third-party licenses, platform terms or statutory exceptions. See RIGHTS.txt and THIRD_PARTY_NOTICES.txt for scope.</p><p>Version 1.0.2 also normalizes metadata file line endings so that GitHub source archives and the attached checksummed ZIP agree. Scientific files are unchanged from v1.0.0.</p>",
   "keywords": [
     "gait disruption",
     "state-history forecasting",
@@ -19,7 +19,7 @@
   ],
   "related_identifiers": [
     {
-      "identifier": "https://github.com/RUjia-Chen-2024/fog-state-history-reproducibility/tree/v1.0.1",
+      "identifier": "https://github.com/RUjia-Chen-2024/fog-state-history-reproducibility/tree/v1.0.2",
       "relation": "isSupplementTo"
     },
     {

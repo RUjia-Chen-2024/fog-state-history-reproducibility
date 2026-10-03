@@ -1,6 +1,6 @@
 # FOG state-history reproducibility
 
-Version **1.0.1** | [Versioned release](https://github.com/RUjia-Chen-2024/fog-state-history-reproducibility/releases/tag/v1.0.1)
+Version **1.0.2** | [Versioned release](https://github.com/RUjia-Chen-2024/fog-state-history-reproducibility/releases/tag/v1.0.2)
 
 Reproducibility materials for **State-history forecasting for pre-onset warning of gait disruptions from stepping force signals**.
 
@@ -71,7 +71,7 @@ Reference intervals are `[onset, end]` pairs in seconds. Test eligibility is def
 
 The source data and processing scripts accompany Wang et al. (2023), *Time Series Analysis and Modeling of the Freezing of Gait Phenomenon*, DOI [10.1137/22M1484341](https://doi.org/10.1137/22M1484341). The authors' [Figshare resource](https://figshare.com/s/a14be7360925639736ba) states CC BY 4.0. The present archive provides derived coordinates, saved predictions and algorithmic labels; it is not the original full dataset. Cropped source force values used in the example figures are also included. See `THIRD_PARTY_NOTICES.txt`.
 
-The archive creator is **Rujia Chen**. Cite the archive title, version 1.0.1, and the versioned release URL above. Version 1.0.1 adds creator and rights metadata for Zenodo archiving; all scientific data, predictions, evaluation scripts and results are unchanged from version 1.0.0.
+The archive creator is **Rujia Chen**. Cite the archive title, version 1.0.2, and the versioned release URL above. Version 1.0.2 adds creator and rights metadata for Zenodo archiving; all scientific data, predictions, evaluation scripts and results are unchanged from version 1.0.0.
 
 No additional reuse license is granted for newly written study-specific code. Public access does not imply an open-source license. This does not change the original source-data CC BY 4.0 permissions. See `RIGHTS.txt` and `THIRD_PARTY_NOTICES.txt`.
 
